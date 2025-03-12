@@ -44,7 +44,7 @@
 ###
 
 <div align="left">
-  <img href="https://www.linkedin.com/in/baran-bulduk-000a74198?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6MatHEICROapApdDuHKdJA%3D%3D" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img href="linkedin.com/in/baran-bulduk-000a74198" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ###
