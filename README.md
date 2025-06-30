@@ -21,8 +21,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
-![NextJS](https://img.shields.io/badge/NextJS-%23117AC9.svg?style=for-the-badge&logo=NextJS&logoColor=white) 
-![Scrum](https://img.shields.io/badge/Scrum-%23117AC9.svg?style=for-the-badge&logo=Scrum&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ###
 
